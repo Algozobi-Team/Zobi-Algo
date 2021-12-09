@@ -1,0 +1,4 @@
+gTTS==2.2.3
+playsound==1.2.2
+SpeechRecognition==3.8.1
+transformers==4.12.5
